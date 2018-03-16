@@ -8,6 +8,7 @@ body{overflow-x:hidden;font-family:'Roboto Slab','Helvetica Neue',Helvetica,Aria
   position: relative;
   display: block;
   max-width: 400px;
+  max-height: 400px;
   margin: 0 auto;
   cursor: pointer;
 }
@@ -49,6 +50,7 @@ body{overflow-x:hidden;font-family:'Roboto Slab','Helvetica Neue',Helvetica,Aria
 
 #currentproject .currentproject-item .currentproject-caption {
   max-width: 400px;
+  max-height: 200px;
   margin: 0 auto;
   padding: 25px;
   text-align: center;

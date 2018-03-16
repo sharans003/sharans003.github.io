@@ -702,6 +702,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   position: relative;
   display: block;
   max-width: 400px;
+  max-height: 400px;
   margin: 0 auto;
   cursor: pointer;
 }
@@ -743,6 +744,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 #currentproject .currentproject-item .currentproject-caption {
   max-width: 400px;
+  max-height: 200px;
   margin: 0 auto;
   padding: 25px;
   text-align: center;
